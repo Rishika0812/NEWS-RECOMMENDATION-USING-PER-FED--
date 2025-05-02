@@ -151,10 +151,3 @@ Privacy-accuracy trade-off is visualized in the dashboard, showing that:
 3. Abadi, M., et al. (2016). Deep Learning with Differential Privacy. CCS 2016.
 4. Bonawitz, K., et al. (2017). Practical Secure Aggregation for Privacy-Preserving Machine Learning. CCS 2017.
 
-## 👨‍💻 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
